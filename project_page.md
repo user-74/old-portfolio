@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Personal Projects
 
 ## 1. imgrecall
