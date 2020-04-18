@@ -1,8 +1,8 @@
-# welcome
+# Welcome
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[imgrecall](https://github.com/user-74/imgrecall).
+[My Personal Projects](./project_page.md).
 
 There should be whitespace between paragraphs.
 
