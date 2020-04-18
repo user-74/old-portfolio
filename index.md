@@ -1,5 +1,4 @@
 ---
-title: wilson's page
 ---
 
 # About Me
