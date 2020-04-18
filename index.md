@@ -1,6 +1,4 @@
----
-layout: welcome
----
+# welcome
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
