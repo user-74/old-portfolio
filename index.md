@@ -1,9 +1,10 @@
 ---
+layout: default
 ---
 
 # About Me
 
-Just sample text.
+Just sample text. [Test link](./test.md)
 
 ## Projects
 
