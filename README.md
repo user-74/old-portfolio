@@ -1,4 +1,6 @@
-# welcome
+---
+title: wilson's webpage
+---
 
 ## 1st project: imgrecall
 
