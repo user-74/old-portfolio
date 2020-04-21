@@ -4,8 +4,9 @@ layout: default
 
 # About Me
 
-Just sample text. [Test link](./test.md)
+Currently a university student studying computer science and neuroscience.
+Contact me: wilsongao1912@hotmail.com
 
 ## Projects
 
-[Link to my projects](./project_page.md)
+[Link to my projects](./projects/)
