@@ -1,4 +1,4 @@
-# welcome
+# welcome, personal page, nothing much
 
 ## 1st project: imgrecall
 
