@@ -13,7 +13,7 @@ Currently a university student studying computer science and neuroscience.
 
 [Link to my projects](./projects/)
 
-## Contact me & Socials
+## Contact Me
 
 I don't use social media.
 
