@@ -4,6 +4,8 @@ layout: default
 
 # About Me
 
+Wilson Q Gao
+
 Currently a university student studying computer science and neuroscience.
 
 
