@@ -20,6 +20,9 @@
       ga('create', 'UA-165097163-1', 'auto');
       ga('send', 'pageview');
     </script>
+    {% if jekyll.environment == 'production' %}
+      {% include analytics.html %}
+    {% endif %}
   </head>
   <body>
     <div class="wrapper">
