@@ -8,4 +8,4 @@ layout: default
 
 link: [imgrecall](https://github.com/user-74/imgrecall)
 
-description: catches any images that are sent to you but recalled
+description: catches recalled wechat images and downloads the original to your computer
