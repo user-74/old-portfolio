@@ -6,15 +6,13 @@ layout: default
 
 Wilson Gao.
 
-Currently a university student studying computer science and neuroscience.
+Currently a university student at UofT, studying computer science and neuroscience.
 
 ## Projects
 
-[Link to my projects](./projects/)
+[Link to my personal projects](./projects/)
 
 ## Contact Me
-
-I don't use social media.
 
 * Email: w-user74@outlook.com
 * Insta: [@user74\_](https://www.instagram.com/user74_/)
