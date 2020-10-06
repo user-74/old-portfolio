@@ -6,6 +6,8 @@ layout: default
 
 Wilson Gao.
 
+Passionate coder and avid neuroscientist. Interested in Artificial Intelligence and Machine Learning.
+
 Currently a university student at UofT, studying computer science and neuroscience.
 
 ## Projects
